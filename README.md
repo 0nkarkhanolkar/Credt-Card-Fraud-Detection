@@ -10,12 +10,12 @@ The dataset contains transactions made by credit cards in September 2013 by Euro
 
 My approach is divided into the following sections:
 
-Exploratory data analysis - check missing values, class distribution, feature correlation 
-Extreme outlier detection & removal - identify extreme outliers and cap their values
-Data preparation - normalize unscaled features and perform train-test split
-Random Undersampling - undersample to get a 1:1 ratio of fraud to non-fraud cases
-SMOTE (Oversampling) - oversample to get a 1:1 ratio of fraud to non-fraud cases
-Model implementation on Test Data - run Logistic Regression, KNN, SVM, Decision Trees
+  Exploratory data analysis - check missing values, class distribution, feature correlation 
+  Extreme outlier detection & removal - identify extreme outliers and cap their values
+  Data preparation - normalize unscaled features and perform train-test split
+  Random Undersampling - undersample to get a 1:1 ratio of fraud to non-fraud cases
+  SMOTE (Oversampling) - oversample to get a 1:1 ratio of fraud to non-fraud cases
+  Model implementation on Test Data - run Logistic Regression, KNN, SVM, Decision Trees
 
 Here are some visualizations:
 
